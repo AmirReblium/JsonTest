@@ -1,9 +1,7 @@
-{
-	"user": [
-{
+[
+	{
 		"Name": "AMir_Row",
 		"MyBoolean": true,
 		"My_Value": 2
 	}
 ]
-}
