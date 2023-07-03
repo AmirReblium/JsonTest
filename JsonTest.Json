@@ -7,8 +7,8 @@
 		},
 		{
 			"Name": "Ali",
-			"AliBoolean": false,
-			"Alis_Value": 5
+			"MyBoolean": false,
+			"My_Value": 5
 
 		}
 
