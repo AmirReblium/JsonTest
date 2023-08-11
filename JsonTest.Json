@@ -1,16 +1,24 @@
 {
-	"user": [
-		{
-			"Name": "AMir_Row",
-			"MyBoolean": true,
-			"My_Value": 2
-		},
-		{
-			"Test": "Ali",
-			"MyBoolean": false,
-			"My_Value": 5
+	"id": "30",
+	"Avatar_Image": "5878851654468#lgjlkdjg5844fdgd",
+	"Avatar": {
+		"test": "amir",
+		"assetname": [ "Girly", "Lipstick_01", "Eyeliner_Dramatic" ],
+		"vectorname": [ "SkinColor*#25866", "M_LipstickColor*#85836", "HairRootColor*#67836" ],
+		"vectorname2": [ "HairTipColor*#85136", "MustacheTipColor*#85836" ],
+		"scalarname": [ "HairBlend*0.3", "HairLength*1" ],
+		"scalarname2": [ "HairMelanin*0.7", "M_Switch_FullFace*0.9" ],
+		"slidertype": [ "M_Switch_Lipstick*1", "M_Switch_Eyesline*1" ]
+	}
+	}
 
-		}
 
-	]
-}
+
+
+
+
+
+
+
+
+
