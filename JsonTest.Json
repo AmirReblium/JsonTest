@@ -1,17 +1,37 @@
 {
-	"id": "30",
-	"Avatar_Image": "5878851654468#lgjlkdjg5844fdgd",
-	"Avatar": {
-		"test": "amir",
-		"assetname": [ "Girly", "Lipstick_01", "Eyeliner_Dramatic" ],
-		"vectorname": [ "SkinColor*#25866", "M_LipstickColor*#85836", "HairRootColor*#67836" ],
-		"vectorname2": [ "HairTipColor*#85136", "MustacheTipColor*#85836" ],
-		"scalarname": [ "HairBlend*0.3", "HairLength*1" ],
-		"scalarname2": [ "HairMelanin*0.7", "M_Switch_FullFace*0.9" ],
-		"slidertype": [ "M_Switch_Lipstick*1", "M_Switch_Eyesline*1" ]
-	}
-	}
-
+  "Accessories": 0,
+  "Age": 0,
+  "Animations": 0,
+  "ArmsLenght": 0,
+  "BodyMuscularity": 0,
+  "BodyWeight": 0,
+  "Ethnicity": 0,
+  "Footwear": 0,
+  "FootwearColor": "(R=0.000000,G=0.000000,B=0.000000,A=0.000000)",
+  "Fulloutfit": 0,
+  "FullOutfitColor": "(R=0.000000,G=0.000000,B=0.000000,A=0.000000)",
+  "Hair": 0,
+  "HairColor": "(R=0.000000,G=0.000000,B=0.000000,A=0.000000)",
+  "HeadScale": 0,
+  "Height": 0,
+  "LegsLenght": 0,
+  "Male": 0,
+  "NumberOfAvatars": 2,
+  "Pants": 0,
+  "PantsColor": "(R=0.000000,G=0.000000,B=0.000000,A=0.000000)",
+  "Pregnancy": 0,
+  "Random": false,
+  "Torso": 0,
+  "TorsoColor": "(R=0.000000,G=0.000000,B=0.000000,A=0.000000)",
+  "TorsoUnderLayer": 0,
+  "TorsoUnderlayerColor": "(R=0.000000,G=0.000000,B=0.000000,A=0.000000)",
+  "UseFootwearColor": false,
+  "UseFullOutfitColor": false,
+  "UseHairColor": false,
+  "UsePantsColor": false,
+  "UseTorsoColor": false,
+  "UseTorsoUnderLayerColor": false
+}
 
 
 
